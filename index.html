@@ -11,7 +11,7 @@
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
 <!--     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'> -->
     <script src="assets/js/d3.min.js"></script>
-    <script src="assets/js/trianglify.min.js"></script>
+
     <script src="assets/js/jquery-1.11.0.min.js"></script>
 
   </head>
@@ -410,11 +410,6 @@
   </div>
 </div> <!-- main -->
 <script type="text/javascript" charset="utf-8">
-  //load triangle background
-  var t = new Trianglify();
-  var pattern;
-  pattern = t.generate(document.body.clientWidth+80, document.body.clientHeight);
-  $('body').css('background-image', pattern.dataUrl);
 
   //replace cuties img on hover
   $(function() {
