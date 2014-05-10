@@ -1,6 +1,12 @@
 body {
   background:#f7fbfe;
 }
+#main {
+  padding-left:30px;
+  padding-right:30px;
+
+}
+
 .dark-outline {
   border-bottom:solid 1px #2b9fd9;
   border-top:solid 1px #2b9fd9;
@@ -17,7 +23,7 @@ h1 {
   text-shadow:1px 1px #000;
 }
 h2 {
-  padding: 10px 5px 10px 5px;
+  padding: 10px 5px 10px 20px;
 }
 .project-item {
   padding:20px;
