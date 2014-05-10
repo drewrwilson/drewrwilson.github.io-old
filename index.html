@@ -386,6 +386,33 @@
           </div> <!-- /project-item -->
 
 
+          <div class="col-sm-6 col-xs-12 col-lg-3 col-md-4 project-item">
+            <div class="project-img">
+              <a href="http://drewrwilson.com/traffic-accidents-in-denver/">
+                <img id="traffic-accidents-img" src="assets/img/traffic-accidents-sm.jpg" width="100%" class="img-responsive" />
+              </a>
+            <div class="project-overlay">
+              <div class="project-header dark-outline">
+                <a href="http://drewrwilson.com/traffic-accidents-in-denver/">
+                  Traffic Accidents in Denver
+                </a>
+                <span class="project-date">May 2014</span>
+              </div><!-- /project-header dark-outline -->
+              <div class="project-desc">
+                Map of traffic accidents in Denver based on <a href="http://data.denvergov.org/dataset/city-and-county-of-denver-traffic-accidents">open data from the city</a>. Tools used: Leaflet.js, Mapbox.js, Omnivore
+                <div class="text-center" style="padding:10px">
+                  <a href="http://drewrwilson.com/traffic-accidents-in-denver/" class="btn btn-primary">view it &raquo</a>
+                </div>
+                <div class="text-center">
+                  <a href="https://github.com/drewrwilson/traffic-accidents-in-denver"><i class="fa fa-github fa-fw"></i> see the code on github...</a>
+                </div>
+              </div> <!-- /project-desc -->
+            </div><!-- /project-overlay -->
+            </div>
+
+          </div> <!-- /project-item -->
+
+
 
 
         </div>
@@ -459,6 +486,17 @@
           $(this).attr("src", originalPic);
         }
       );
+    //traffic-accidents
+    $("#traffic-accidents-img").hover(
+        function() {
+            originalPic = $(this).attr("src");
+            $(this).attr("src", "assets/img/traffic-accidents-animated.gif");
+        },
+        function() {
+          $(this).attr("src", originalPic);
+        }
+      );
+
     });
 </script>
 <script>
