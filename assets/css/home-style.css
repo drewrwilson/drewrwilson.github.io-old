@@ -1,20 +1,21 @@
 body {
   background:#f7fbfe;
+  margin:0px;
+  padding:0px;
 }
 #main {
   padding-left:30px;
   padding-right:30px;
-
 }
 
 .dark-outline {
   border-bottom:solid 1px #2b9fd9;
   border-top:solid 1px #2b9fd9;
 }
-.container {
-}
+
 .header-row {
   padding:20px;
+  margin:0px;
   background:url('../img/triangle.svg') #e1f6fe;
   background-repeat:repeat-x repeat-y;
 }
