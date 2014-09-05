@@ -1,0 +1,167 @@
+{
+  "imgDirectory": "assets/img/",
+  "projectsHeader": "Some Projects",
+  "projectsDesc": "Here are some of my recent projects. Some are solo projects, some are group projects. There are a variety of things here: web apps, visualizations, cms-powered sites, videos, twitter bots, diy projects, and an annual food festival.",
+  "projects" : [
+    {
+      "title":"DIY Car Decal",
+      "date":"April 2014",
+      "shortDescription":"A vinyl car decal made for The Humane League's San Francisco office. Entry in Instructables laser contest.",
+      "readMoreText":"step-by-step on Instructables.com",
+      "slug":"car-decal-img",
+      "readMoreURL":"http://www.instructables.com/id/Car-decal-sticker-made-with-a-vinyl-cutter/",
+      "previewImg":"car-decal.jpg",
+      "previewGif":"car-decal-animated.gif"
+    },
+    {
+      "title":"Cute Pets Denver",
+      "date":"February 2014",
+      "shortDescription":"Twitter bot that shares pictures & info about adoptable animals from the shelter in Denver. Scrapes data from gov webpage, posts to twitter. <a href='http://twitter.com/CutiesInDenver'>Follow the twitter bot</a> | <a href='http://www.govtech.com/data/What-Open-Data-Can-is-Doing-for-Pets.html'>GovTech article</a>",
+      "readMoreText":"",
+      "slug":"cuties-img",
+      "readMoreURL":"http://www.codeforamerica.org/blog/2014/04/28/raise-your-paws-if-you-like-open-data/",
+      "previewImg":"cuties-twitter-bot-sm.jpg",
+      "previewGif":"cuties-animated.gif"
+    },
+    {
+      "title":"Mobile Prototyping Board",
+      "date":"March 2014",
+      "shortDescription":"Whiteboard for low-fi prototyping of mobile app ideas. Designed in Illustrator, made with cnc vinyl cutter.",
+      "readMoreText":"read step-by-step guide",
+      "slug":"mobile-proto-img",
+      "readMoreURL":"http://www.instructables.com/id/Mobile-Prototyping-Whiteboard/",
+      "previewImg":"mobile-prototyping-sm.jpg",
+      "previewGif":"mobile-proto-animated.gif"
+    },
+    {
+      "title":"Worcester VegFest",
+      "date":"2009-present",
+      "shortDescription":"Annual vegetarian festival in Worcester, MA. 7,000 attendees, 120 exhibitors, 200 volunteers.",
+      "readMoreText":"WorcesterVegFest.com ",
+      "slug":"vegfest-img",
+      "readMoreURL":"http://WorcesterVegFest.com",
+      "previewImg":"dcu-marquee-sm.jpg",
+      "previewGif":""
+    },
+    {
+      "title":"Countdown to 2014 Code for America Summit",
+      "date":"countdown-img",
+      "shortDescription":"Webpage countdown to the 2014 Code for America Summit. Tools used: github.io pages, JavaScript, jQuery, Bootstrap.",
+      "readMoreText":"live site",
+      "slug":"",
+      "readMoreURL":"http://drewrwilson.github.io/Countdown-to-the-Summit/",
+      "previewImg":"code-for-america-2014-countdown.png",
+      "previewGif":""
+    },
+    {
+      "title":"Mobile Orchestra",
+      "date":"March 2014",
+      "shortDescription":"A mobile webapp that generates music based on data from participants during a Critical Mass bike riders. Made by a team of 5 of us.",
+      "readMoreText":"code on github",
+      "slug":"mobile-orchestra-img",
+      "readMoreURL":"https://github.com/codeforamerica/mobile-orchestra",
+      "previewImg":"mo-logo-sm.png",
+      "previewGif":""
+    },
+    {
+      "title":"TryVeg.com",
+      "date":"2013",
+      "shortDescription":"Campaign website advocating vegetarianism. Tools used: Bootstrap, PHP, Wordpress, JavaScript, jQuery.",
+      "readMoreText":"TryVeg.com live site",
+      "slug":"tryveg-img",
+      "readMoreURL":"http://TryVeg.com",
+      "previewImg":"tryveg-sm.jpg",
+      "previewGif":""
+    },
+    {
+      "title":"SizeOf",
+      "date":"March 2014",
+      "shortDescription":"Webapp that checks the number of attendees for a given facebook event.",
+      "readMoreText":"",
+      "slug":"sizeof-img",
+      "readMoreURL":"",
+      "previewImg":"size-of-sm.jpg",
+      "previewGif":""
+    },
+    {
+      "title":"COK.net",
+      "date":"2013",
+      "shortDescription":"Compassion Over Killing is a national organization focused on exposing and campaigning against animal cruelty on factory farms. Received over 1 million hits since launch.",
+      "readMoreText":"COK.net live site",
+      "slug":"cok-img",
+      "readMoreURL":"http://cok.net",
+      "previewImg":"cok-dot-net-sm.jpg",
+      "previewGif":""
+    },
+    {
+      "title":"le Stands",
+      "date":"2013",
+      "shortDescription":"Web app for helping actvists track literature distribution through free newspaper stands. Tools used: CodeIgniter, PHP, MySQL, Bootstrap, ChartJS.",
+      "readMoreText":"",
+      "slug":"lestands-img",
+      "readMoreURL":"",
+      "previewImg":"lestands-sm.png",
+      "previewGif":""
+    },
+    {
+      "title":"SoyWallets",
+      "date":"2007",
+      "shortDescription":"a DIY wallet made from a used soymilk container. featured on the MAKE blog",
+      "readMoreText":"",
+      "slug":"soywallets-img",
+      "readMoreURL":"http://SoyWallets.com",
+      "previewImg":"soywallets-sm.jpg",
+      "previewGif":""
+    },
+    {
+      "title":"Key Rack",
+      "date":"2011",
+      "shortDescription":"a homemade key rack made from keys. Featured on <a href='http://www.reddit.com/r/DIY/comments/pbayr/heres_a_key_rack_that_i_made_out_of_old_keys/'>frontpage of reddit</a> and on the <a href='http://makezine.com/2012/02/06/key-rack-from-bent-keys/'>MAKE Zine website</a>.",
+      "readMoreText":"more photos on imgur",
+      "slug":"key-rack",
+      "readMoreURL":"https://imgur.com/a/bwbGH",
+      "previewImg":"diy-keys-sm.jpg",
+      "previewGif":""
+    },
+    {
+      "title":"Juggalos that wear Abercrombie & Fitch",
+      "date":"2013",
+      "shortDescription":"a video mashup of LFO's song \"Summer Girls\" played to video from ICP's song \"Juggalo Island\"",
+      "readMoreText":"watch it on youtube",
+      "slug":"juggalos-img",
+      "readMoreURL":"https://www.youtube.com/watch?v=QcKMuK47Zjo",
+      "previewImg":"juggalo-that-wear-abercrombie-and-fitch.jpg",
+      "previewGif":"juggalo-that-wear-abercrombie-and-fitch.gif"
+    },
+    {
+      "title":"Code for America Tabletop Display",
+      "date":"Janurary 2014",
+      "shortDescription":"Reproducible DIY tabletop display for Code for America brigades. Made with a ShopBot CNC router.",
+      "readMoreText":"",
+      "slug":"table-display-img",
+      "readMoreURL":"",
+      "previewImg":"table-display-sm.jpg",
+      "previewGif":"table-display-animated.gif"
+    },
+    {
+      "title":"Traffic Accidents in Denver",
+      "date":"May 2014",
+      "shortDescription":"Map of traffic accidents in Denver based on <a href='http://data.denvergov.org/dataset/city-and-county-of-denver-traffic-accidents'>open data from the city</a>. Tools used: Leaflet.js, Mapbox.js, Omnivore",
+      "readMoreText":"view it",
+      "slug":"traffic-accidents-img",
+      "readMoreURL":"http://drewrwilson.com/traffic-accidents-in-denver/",
+      "previewImg":"traffic-accidents-sm.jpg",
+      "previewGif":"traffic-accidents-animated.gif"
+    },
+    {
+      "title":"Abandoned Trolley Tracks in Denver",
+      "date":"May 2014",
+      "shortDescription":"Map of abandoned trolley tracks in Denver based on <a href='http://data.denvergov.org/'>open data from the city</a>. Tools used: Leaflet.js, Mapbox.js, Omnivore",
+      "readMoreText":"view it",
+      "slug":"denver-trolley-tracks-img",
+      "readMoreURL":"http://drewrwilson.com/denver-trolley-tracks/",
+      "previewImg":"denver-abandoned-trolleys.jpg",
+      "previewGif":"denver-abandoned-trolleys.gif"
+    }
+  ]
+}
