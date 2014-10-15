@@ -19,13 +19,12 @@ body {
 }
 h1 {
   color:#2b9fd9;
-  text-shadow:1px 1px #000;
 }
 h2 {
   padding: 10px 5px 10px 20px;
 }
 .project-item {
-  padding:20px;
+  padding:5px;
 }
 .project-img {
   padding:20px 10px 20px 10px;
@@ -61,4 +60,8 @@ filter:alpha(opacity=100); /* For IE8 and earlier */
 }
 a, a:link, a:visited {
   color:#000;
+}
+
+a.btn, a:link.btn, a:visited.btn  {
+  color:azure;
 }
